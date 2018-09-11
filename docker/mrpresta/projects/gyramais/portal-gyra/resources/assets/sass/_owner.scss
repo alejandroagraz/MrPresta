@@ -1,0 +1,90 @@
+.card-title {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.card-image {
+  text-align: center;
+  img {
+    height: 200px !important;
+    display: initial !important;
+  }
+}
+
+.users-btn-contas{
+  width: 130px;
+}
+
+.modal-account .modal-content, .modal-owner .modal-content {
+  background-color: #111111;
+}
+
+.modal-account .modal-body,  .modal-owner .modal-body{
+  text-align: center;
+  height: auto;
+}
+
+.modal-account .modal-title, .modal-account .close,  .modal-owner .modal-title, .modal-owner .close, .owner-label-text{
+  color: white;
+}
+
+.account-img {
+  opacity: 0.7;
+  cursor: pointer;
+  padding: 10px 10px 10px 10px;
+}
+
+.account-img:hover {
+  cursor: pointer;
+  opacity: 1;
+}
+
+.account-input {
+  margin-bottom: 12px;
+}
+
+.account-link-div, .account-span-div {
+  height: 46px;
+}
+
+.account-link {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.account-span-div {
+  margin-top: 10px;
+}
+
+.account-span {
+  font-size: 12px;
+}
+
+.users-paragraph, .accounts-paragraph {
+  padding-right: 15px;
+}
+
+.modal-owner {
+  top: 15%;
+}
+
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.no-padding-left {
+  padding-left: 0 !important;
+}
+
+.no-padding-right {
+  padding-right: 0 !important;
+}
+
+.btn-custom {
+  float: right;
+}
+
+.panel-inverse .panel-heading, .bg-default {
+  background-color: #424242;
+}

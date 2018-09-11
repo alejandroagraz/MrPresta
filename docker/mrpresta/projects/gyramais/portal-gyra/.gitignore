@@ -1,0 +1,17 @@
+/storage/app/*
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/vendor
+/.idea
+.env
+composer.lock
+package-lock.json
+node_modules
+/public/css/*
+/public/js/*
+/public/components/*
+/public/mix-manifest.json
+

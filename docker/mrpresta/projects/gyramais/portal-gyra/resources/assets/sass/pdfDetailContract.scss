@@ -1,0 +1,36 @@
+.header{
+  .header-title {
+    font-size: 12px;
+    color: #A6A8AC;
+  }
+}
+
+.table-detail{
+  width: 100%;
+  border: 1px solid gray;
+
+  th{
+
+    border: 1px solid gray;
+
+  }
+  td{
+
+    border: 1px solid gray;
+
+  }
+}
+
+.periodo-pendiente{
+  background-color: rgb(220, 205, 198);
+}
+
+.periodo-pago{
+  background-color: rgb(221, 232, 159);
+}
+
+.periodo-vencido{
+  background-color: rgb(255, 194, 140);
+}
+
+

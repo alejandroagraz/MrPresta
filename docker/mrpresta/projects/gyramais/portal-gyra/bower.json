@@ -1,0 +1,20 @@
+{
+  "name": "portal-gyra",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ignacio Salazar <ignaciostylex@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TeravisionTechnologies/portal-gyra",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^2.5.0"
+  }
+}

@@ -1,0 +1,85 @@
+.saldo-inicial {
+  background-color: #d6e9c6;
+}
+
+.saldo-final {
+  background-color: #faebcc;
+}
+
+.periodo-pago {
+  background-color: $paid-period !important;
+}
+
+.hide-columns-periodo-pago {
+  background-color: #bdca7d;
+}
+
+.periodo-vencido {
+  background-color: $due-period !important;
+}
+
+.hide-columns-periodo-vencido {
+  background-color: #dc8c45;
+}
+
+.periodo-pendiente {
+  background-color: $pending-period !important;
+}
+
+.hide-columns-periodo-pendiente {
+  background-color: #bcb6b3;
+}
+
+.pago-parcial {
+  background-color: $paid-period;
+}
+
+.hide-columns-pago-parcial {
+  background-color: #bdca7d;
+}
+
+.montos-consolidados {
+  background-color: $background-header-table !important;
+  color: $separator !important;
+}
+
+.titulos-consolidados {
+  background-color: $separator;
+}
+
+.montos-separador {
+  border-left: 1px solid $separator
+}
+
+.icon-loans {
+  width: 2%;
+  cursor: pointer;
+}
+
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+.slide-toggle {
+  overflow: hidden;
+  transition: all 1.5s;
+}
+
+.align-middle {
+  vertical-align: middle !important;
+}
+
+.actions-icons {
+  a {
+    color: black;
+    cursor: pointer;
+  }
+}
+
+.has-error-btn {
+  border-color: $error-form !important;
+}
+
+.fa-2x-custom {
+  font-size: 1.5em;
+}
